@@ -21,7 +21,7 @@
 
   "extras": {
     "recordingAvailable": false,
-    "assignment": "Solve NumPy mean, median, mode questions after class",
+    "assignment": "Solve NumPy mean, median, mode,variance questions after class",
     "nextTopic": "Variance and Standard Deviation"
   }
 }
