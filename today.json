@@ -23,20 +23,5 @@
     "recordingAvailable": false,
     "assignment": "Solve NumPy mean, median, mode,variance questions after class",
     "nextTopic": "Variance and Standard Deviation"
-  },
-
-  "textLinks": [
-    {
-      "text": "Join WhatsApp Group",
-      "link": "https://chat.whatsapp.com/example"
-    },
-    {
-      "text": "Open Notes PDF",
-      "link": "https://example.com/notes.pdf"
-    },
-    {
-      "text": "Practice Quiz",
-      "link": "https://example.com/quiz"
-    }
-  ]
+  }
 }
